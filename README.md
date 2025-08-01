@@ -1,0 +1,1 @@
+While still in the initial stages of creation, the goal of this web app is to create a place for students to see possible paths for their degree. This includes students looking to change majors, add a major or minor or students who are unsure of what they want to major in. 
